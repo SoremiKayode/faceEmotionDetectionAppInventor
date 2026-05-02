@@ -1,0 +1,6 @@
+name: FaceEmotionDetector
+version: 1
+sources:
+  - com/soremi/faceemotiondetector/FaceEmotionDetector.java
+android:
+  min_sdk: 21
