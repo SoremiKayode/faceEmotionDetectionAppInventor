@@ -14,7 +14,8 @@ import com.google.appinventor.components.runtime.EventDispatcher;
     version = 1,
     description = "Face emotion detector extension scaffold.",
     category = ComponentCategory.EXTENSION,
-    nonVisible = true)
+    nonVisible = true,
+    iconName = "https://raw.githubusercontent.com/mit-cml/appinventor-sources/master/appinventor/components/src/com/google/appinventor/images/extension.png")
 public class FaceEmotionDetector extends AndroidNonvisibleComponent {
 
   private String title = "Face Emotion Detector";
